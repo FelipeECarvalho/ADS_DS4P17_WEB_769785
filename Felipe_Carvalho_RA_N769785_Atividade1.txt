@@ -1,0 +1,20 @@
+  HTML5, a quinta versão do Hypertext Markup Language, é uma linguagem de marcação utilizada para estruturar e apresentar conteúdo na internet.
+Desenvolvido pelo World Wide Web Consortium (W3C), o HTML5 trouxe avanços significativos em relação às versões anteriores, proporcionando recursos mais ricos, semântica aprimorada e suporte a multimídia nativa.
+Ele inclui elementos e atributos que permitem uma organização mais clara e significativa do conteúdo, abrindo caminho para uma experiência de usuário mais interativa e acessível.
+  
+  Navegadores, também conhecidos como web browsers, são programas de software que permitem aos usuários acessar e navegar pela World Wide Web.
+Eles interpretam e renderizam o código HTML, CSS e JavaScript para exibir páginas da web de maneira legível e interativa.
+Além disso, os navegadores oferecem recursos como favoritos, histórico de navegação, gerenciamento de cookies e plugins, tornando a experiência de navegação mais personalizável e eficiente.
+Os navegadores são construídos com base em motores de renderização, também conhecidos como motores de navegador, que processam o código HTML e outros recursos da web para exibir as páginas da maneira que vemos.
+  
+  A diferença entre os navegadores muitas vezes está relacionada ao motor de renderização que eles usam. Alguns exemplos de motores de navegador e suas diferenças incluem:
+• Blink (utilizado pelo Google Chrome e Microsoft Edge): Desenvolvido pelo Google, o Blink é uma ramificação do WebKit (anteriormente usado pelo Safari). Ele se concentra em velocidade, desempenho e implementação rápida de recursos da web.
+• Gecko (utilizado pelo Mozilla Firefox): Desenvolvido pela Mozilla, o Gecko é conhecido por sua conformidade rigorosa com os padrões da web, segurança robusta e personalização avançada.
+• WebKit (utilizado pelo Safari e navegadores relacionados): Criado pela Apple, o WebKit foi um dos primeiros motores modernos e é valorizado por sua estabilidade e qualidade de renderização.
+
+Referências Bibliográficas:
+World Wide Web Consortium. (2014). "HTML5 Differences from HTML4." https://www.w3.org/TR/html5-diff/
+Mozilla Developer Network. (2021). "Gecko." https://developer.mozilla.org/pt-BR/docs/Glossary/Gecko
+The Chromium Projects. (2021). "Blink." https://www.chromium.org/blink
+Apple Developer. (2021). "WebKit." https://developer.apple.com/documentation/webkit
+Mozilla Developer Network. (2021). "Browser Basics." https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
